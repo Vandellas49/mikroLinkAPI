@@ -1,0 +1,12 @@
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\bin\Release\net8.0\win-x64\mikroLinkAPI.Domain.deps.json
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\bin\Release\net8.0\win-x64\mikroLinkAPI.Domain.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\bin\Release\net8.0\win-x64\mikroLinkAPI.Domain.pdb
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.csproj.AssemblyReference.cache
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.AssemblyInfoInputs.cache
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.AssemblyInfo.cs
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\refint\mikroLinkAPI.Domain.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\mikroLinkAPI.Domain.pdb
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\win-x64\ref\mikroLinkAPI.Domain.dll

@@ -1,0 +1,34 @@
+﻿using mikroLinkAPI.Domain.Abstractions;
+
+
+namespace mikroLinkAPI.Domain.Entities
+{
+    public sealed class StoreExit : Entity
+    {
+        public int CserialId { get; set; }
+        public int? CompanyId { get; set; }
+        public int? SiteId { get; set; }
+        public int? TeamLeaderId { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public int Sturdy { get; set; }
+        public int Defective { get; set; }
+        public int Scrap { get; set; }
+        public int? CompanyIdExit { get; set; }
+        public int? SiteIdExit { get; set; }
+        public int? TeamLeaderIdExit { get; set; }
+        public int? RequestId { get; set; }
+        public int? ExitType { get; set; }
+        public int CreatedBy { get; set; }
+
+        public Company Company { get; set; }
+        public Company CompanyIdExitNavigation { get; set; }
+        public ComponentSerial Cserial { get; set; }
+        public Request Request { get; set; }
+        public Site Site { get; set; }
+        public Site SiteIdExitNavigation { get; set; }
+        public AccountSsom TeamLeader { get; set; }
+        public AccountSsom TeamLeaderIdExitNavigation { get; set; }
+        public AccountSsom WhoDone { get; set; }
+
+    }
+}

@@ -1,0 +1,4 @@
+﻿CREATE TABLE #TempCsv_[@tempName] ( Id NVARCHAR(MAX), MalzemeTuru NVARCHAR(MAX), EquipmentDescription NVARCHAR(MAX) );
+BULK INSERT #TempCsv_[@tempName] FROM '{filepath}' WITH ( FIELDTERMINATOR = ',', ROWTERMINATOR = '\n', FIRSTROW = 2 ,FORMAT='CSV',CODEPAGE = '65001');
+INSERT INTO dbo.Component (Id, MalzemeTuru, EquipmentDescription) SELECT Id, case when ISNUMERIC(MalzemeTuru)=1 then (Select Id from dbo.MalzemeTipi WHERE Id=MalzemeTuru) else (Select Id from dbo.MalzemeTipi WHERE Value=MalzemeTuru) end, EquipmentDescription FROM #TempCsv_[@tempName]; 
+SELECT * FROM #TempCsv_[@tempName]; DROP TABLE #TempCsv_[@tempName];

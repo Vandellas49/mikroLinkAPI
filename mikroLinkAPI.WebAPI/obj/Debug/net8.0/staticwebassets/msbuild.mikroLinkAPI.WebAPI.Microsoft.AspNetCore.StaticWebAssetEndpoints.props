@@ -1,0 +1,760 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/04f169fb-c6fc-486b-879a-9ede5e17603c.0sgffzvxzi.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\04f169fb-c6fc-486b-879a-9ede5e17603c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sgffzvxzi"},{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/04f169fb-c6fc-486b-879a-9ede5e17603c.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:14:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/04f169fb-c6fc-486b-879a-9ede5e17603c.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\04f169fb-c6fc-486b-879a-9ede5e17603c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:14:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/0689d463-f56f-4e58-978b-385e6103ec1b.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0689d463-f56f-4e58-978b-385e6103ec1b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/0689d463-f56f-4e58-978b-385e6103ec1b.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:12:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/0689d463-f56f-4e58-978b-385e6103ec1b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0689d463-f56f-4e58-978b-385e6103ec1b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:12:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/1.q09z5l4wol.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q09z5l4wol"},{"Name":"integrity","Value":"sha256-avHIfmgyzZdzfg25\u002BYiNedrYpakHQdiLJAu39dFdjRI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/1.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022avHIfmgyzZdzfg25\u002BYiNedrYpakHQdiLJAu39dFdjRI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 20:37:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/1.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-avHIfmgyzZdzfg25\u002BYiNedrYpakHQdiLJAu39dFdjRI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022avHIfmgyzZdzfg25\u002BYiNedrYpakHQdiLJAu39dFdjRI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 20:37:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/16.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\16.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TS46s\u002B/XYypc8x4uBjBZ2QAEPKBcbf4Sh7uVKfCa9WU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022TS46s\u002B/XYypc8x4uBjBZ2QAEPKBcbf4Sh7uVKfCa9WU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:40:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/16.xv56zy4joa.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\16.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xv56zy4joa"},{"Name":"integrity","Value":"sha256-TS46s\u002B/XYypc8x4uBjBZ2QAEPKBcbf4Sh7uVKfCa9WU="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/16.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022TS46s\u002B/XYypc8x4uBjBZ2QAEPKBcbf4Sh7uVKfCa9WU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:40:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/167fe454-cb19-4afd-a451-198deb237555.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\167fe454-cb19-4afd-a451-198deb237555.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/167fe454-cb19-4afd-a451-198deb237555.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 23:07:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/167fe454-cb19-4afd-a451-198deb237555.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\167fe454-cb19-4afd-a451-198deb237555.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 23:07:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/17287463-27a5-4ab0-ad1f-cd65027915f0.iq35ih1vb5.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\17287463-27a5-4ab0-ad1f-cd65027915f0.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iq35ih1vb5"},{"Name":"integrity","Value":"sha256-KqjdoJY7whUv9LpTSor00PhkjQ2vw2un4xOssrvNpcc="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/17287463-27a5-4ab0-ad1f-cd65027915f0.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3295"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022KqjdoJY7whUv9LpTSor00PhkjQ2vw2un4xOssrvNpcc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:02:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/17287463-27a5-4ab0-ad1f-cd65027915f0.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\17287463-27a5-4ab0-ad1f-cd65027915f0.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KqjdoJY7whUv9LpTSor00PhkjQ2vw2un4xOssrvNpcc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3295"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022KqjdoJY7whUv9LpTSor00PhkjQ2vw2un4xOssrvNpcc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:02:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/18.seyge99tfw.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\18.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"seyge99tfw"},{"Name":"integrity","Value":"sha256-NHTWN6bFEMRURw\u002BCOShdke02XFi\u002B66NQhqlmncfpALM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/18.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NHTWN6bFEMRURw\u002BCOShdke02XFi\u002B66NQhqlmncfpALM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:41:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/18.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\18.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NHTWN6bFEMRURw\u002BCOShdke02XFi\u002B66NQhqlmncfpALM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NHTWN6bFEMRURw\u002BCOShdke02XFi\u002B66NQhqlmncfpALM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:41:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/1dfcc51f-ae4d-4ee9-8e7c-2527f52b33da.fsr5xil757.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1dfcc51f-ae4d-4ee9-8e7c-2527f52b33da.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fsr5xil757"},{"Name":"integrity","Value":"sha256-EYv9XRl6okfuOvJGzVou7gAJkFFnOHq4RrW9kbXdbjU="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/1dfcc51f-ae4d-4ee9-8e7c-2527f52b33da.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14086"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022EYv9XRl6okfuOvJGzVou7gAJkFFnOHq4RrW9kbXdbjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:23:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/1dfcc51f-ae4d-4ee9-8e7c-2527f52b33da.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1dfcc51f-ae4d-4ee9-8e7c-2527f52b33da.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EYv9XRl6okfuOvJGzVou7gAJkFFnOHq4RrW9kbXdbjU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14086"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022EYv9XRl6okfuOvJGzVou7gAJkFFnOHq4RrW9kbXdbjU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:23:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/2.2hskdflv33.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2hskdflv33"},{"Name":"integrity","Value":"sha256-2lnvCbm4SHDKhlXCBmnIwh9qxj7ytR9VF5\u002Bw8AKo7S8="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/2.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00222lnvCbm4SHDKhlXCBmnIwh9qxj7ytR9VF5\u002Bw8AKo7S8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 23:07:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/2.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2lnvCbm4SHDKhlXCBmnIwh9qxj7ytR9VF5\u002Bw8AKo7S8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3311"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00222lnvCbm4SHDKhlXCBmnIwh9qxj7ytR9VF5\u002Bw8AKo7S8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 23:07:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/205350c2-fc33-4cf8-a663-b261d348f6a9.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\205350c2-fc33-4cf8-a663-b261d348f6a9.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/205350c2-fc33-4cf8-a663-b261d348f6a9.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 14:40:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/205350c2-fc33-4cf8-a663-b261d348f6a9.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\205350c2-fc33-4cf8-a663-b261d348f6a9.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 14:40:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/22120b89-a25e-4443-b13f-0003d30ba932.ofbbahb8ys.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22120b89-a25e-4443-b13f-0003d30ba932.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ofbbahb8ys"},{"Name":"integrity","Value":"sha256-pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/22120b89-a25e-4443-b13f-0003d30ba932.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14016"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:45:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/22120b89-a25e-4443-b13f-0003d30ba932.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22120b89-a25e-4443-b13f-0003d30ba932.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14016"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:45:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/22202fa4-b45b-4008-b010-20a2b9c83cee.ufhcfl2l5d.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22202fa4-b45b-4008-b010-20a2b9c83cee.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ufhcfl2l5d"},{"Name":"integrity","Value":"sha256-ttlUKyK01BOMYaYYAe\u002BLD2wDMkIZIbNPTVaVCfKdcbU="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/22202fa4-b45b-4008-b010-20a2b9c83cee.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022ttlUKyK01BOMYaYYAe\u002BLD2wDMkIZIbNPTVaVCfKdcbU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:41:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/22202fa4-b45b-4008-b010-20a2b9c83cee.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22202fa4-b45b-4008-b010-20a2b9c83cee.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ttlUKyK01BOMYaYYAe\u002BLD2wDMkIZIbNPTVaVCfKdcbU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022ttlUKyK01BOMYaYYAe\u002BLD2wDMkIZIbNPTVaVCfKdcbU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:41:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/287ff3fe-b58c-444c-93e0-6586cf0b40d1.8rytya3ynr.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rytya3ynr"},{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/31d8a571-30fb-424f-8a06-dba644c804f7.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\31d8a571-30fb-424f-8a06-dba644c804f7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/31d8a571-30fb-424f-8a06-dba644c804f7.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:05:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/31d8a571-30fb-424f-8a06-dba644c804f7.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\31d8a571-30fb-424f-8a06-dba644c804f7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:05:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/355cec1e-0a99-41ca-8d06-31480e6f4f14.cy1413j1gk.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\355cec1e-0a99-41ca-8d06-31480e6f4f14.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cy1413j1gk"},{"Name":"integrity","Value":"sha256-HCCXpG\u002BjYYqSAB0YyKXqVyDuqEdslqFrVyQbHQ9gCaA="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/355cec1e-0a99-41ca-8d06-31480e6f4f14.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14185"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022HCCXpG\u002BjYYqSAB0YyKXqVyDuqEdslqFrVyQbHQ9gCaA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 23:08:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/355cec1e-0a99-41ca-8d06-31480e6f4f14.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\355cec1e-0a99-41ca-8d06-31480e6f4f14.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HCCXpG\u002BjYYqSAB0YyKXqVyDuqEdslqFrVyQbHQ9gCaA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14185"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022HCCXpG\u002BjYYqSAB0YyKXqVyDuqEdslqFrVyQbHQ9gCaA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 23:08:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/36f5f251-afe3-4bf8-92f2-1b0dfb435f7d.egp0qkemxd.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\36f5f251-afe3-4bf8-92f2-1b0dfb435f7d.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"egp0qkemxd"},{"Name":"integrity","Value":"sha256-3gqBCQpoUKtxFTU226Jy8\u002BMB/8j4ZeBRQ1qzz8RnqF0="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/36f5f251-afe3-4bf8-92f2-1b0dfb435f7d.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3393"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00223gqBCQpoUKtxFTU226Jy8\u002BMB/8j4ZeBRQ1qzz8RnqF0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:10:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/36f5f251-afe3-4bf8-92f2-1b0dfb435f7d.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\36f5f251-afe3-4bf8-92f2-1b0dfb435f7d.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3gqBCQpoUKtxFTU226Jy8\u002BMB/8j4ZeBRQ1qzz8RnqF0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3393"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00223gqBCQpoUKtxFTU226Jy8\u002BMB/8j4ZeBRQ1qzz8RnqF0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:10:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/39818c04-4be7-4bd2-8501-45dda31dfe1e.8rytya3ynr.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\39818c04-4be7-4bd2-8501-45dda31dfe1e.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rytya3ynr"},{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/39818c04-4be7-4bd2-8501-45dda31dfe1e.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/39818c04-4be7-4bd2-8501-45dda31dfe1e.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\39818c04-4be7-4bd2-8501-45dda31dfe1e.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/4ef71fdf-2d21-4613-9d39-3d10098d4e54.pqjz3gz46d.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pqjz3gz46d"},{"Name":"integrity","Value":"sha256-saHyC5IXar4WaAxTZqF33RzAtuOJJYELl\u002Bkp0XRPDSM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14029"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022saHyC5IXar4WaAxTZqF33RzAtuOJJYELl\u002Bkp0XRPDSM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:03:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-saHyC5IXar4WaAxTZqF33RzAtuOJJYELl\u002Bkp0XRPDSM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14029"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022saHyC5IXar4WaAxTZqF33RzAtuOJJYELl\u002Bkp0XRPDSM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:03:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/5cce8a1e-6975-4426-bb00-731c6e7708cb.cqbev1quei.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cqbev1quei"},{"Name":"integrity","Value":"sha256-5HWYXRX71At8mOSSd\u002Bq4edfPVzit5h7rzl3KfJ0VY1o="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3032"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00225HWYXRX71At8mOSSd\u002Bq4edfPVzit5h7rzl3KfJ0VY1o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:34:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5HWYXRX71At8mOSSd\u002Bq4edfPVzit5h7rzl3KfJ0VY1o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3032"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00225HWYXRX71At8mOSSd\u002Bq4edfPVzit5h7rzl3KfJ0VY1o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:34:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/5f8ee878-5ed5-4780-a604-2168c70327d2.070ylozjv8.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f8ee878-5ed5-4780-a604-2168c70327d2.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"070ylozjv8"},{"Name":"integrity","Value":"sha256-hEVh2UQPB42Vll83aDKR/WEztXsdRVOdfhvKKxNT/G0="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/5f8ee878-5ed5-4780-a604-2168c70327d2.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13931"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022hEVh2UQPB42Vll83aDKR/WEztXsdRVOdfhvKKxNT/G0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:47:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/5f8ee878-5ed5-4780-a604-2168c70327d2.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f8ee878-5ed5-4780-a604-2168c70327d2.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hEVh2UQPB42Vll83aDKR/WEztXsdRVOdfhvKKxNT/G0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13931"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022hEVh2UQPB42Vll83aDKR/WEztXsdRVOdfhvKKxNT/G0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:47:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/617030f5-32c8-49d6-9a9d-1cb3f75060d5.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\617030f5-32c8-49d6-9a9d-1cb3f75060d5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/617030f5-32c8-49d6-9a9d-1cb3f75060d5.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:48:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/617030f5-32c8-49d6-9a9d-1cb3f75060d5.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\617030f5-32c8-49d6-9a9d-1cb3f75060d5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:48:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/66992e82-67d8-4021-b309-2948bed8ca13.0sgffzvxzi.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\66992e82-67d8-4021-b309-2948bed8ca13.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sgffzvxzi"},{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/66992e82-67d8-4021-b309-2948bed8ca13.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:42:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/66992e82-67d8-4021-b309-2948bed8ca13.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\66992e82-67d8-4021-b309-2948bed8ca13.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:42:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/6fd54587-638f-48a3-b793-51a0c72c8080.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6fd54587-638f-48a3-b793-51a0c72c8080.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/6fd54587-638f-48a3-b793-51a0c72c8080.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:25:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/6fd54587-638f-48a3-b793-51a0c72c8080.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6fd54587-638f-48a3-b793-51a0c72c8080.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:25:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.0sgffzvxzi.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sgffzvxzi"},{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:23:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:23:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7308ec61-2086-41cc-ac13-c576a87514b5.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7308ec61-2086-41cc-ac13-c576a87514b5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/7308ec61-2086-41cc-ac13-c576a87514b5.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:18:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7308ec61-2086-41cc-ac13-c576a87514b5.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7308ec61-2086-41cc-ac13-c576a87514b5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:18:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/74fc5a39-148d-4294-9d02-75900b4759e7.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\74fc5a39-148d-4294-9d02-75900b4759e7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/74fc5a39-148d-4294-9d02-75900b4759e7.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:08:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/74fc5a39-148d-4294-9d02-75900b4759e7.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\74fc5a39-148d-4294-9d02-75900b4759e7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:08:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7609b175-ad17-48e8-951b-2116666fe8e5.mw6808pcko.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7609b175-ad17-48e8-951b-2116666fe8e5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw6808pcko"},{"Name":"integrity","Value":"sha256-9oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/7609b175-ad17-48e8-951b-2116666fe8e5.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14093"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00229oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:07:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7609b175-ad17-48e8-951b-2116666fe8e5.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7609b175-ad17-48e8-951b-2116666fe8e5.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14093"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00229oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:07:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/766c1450-e23a-4bb0-b37f-b16dac6fbb4a.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:41:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:41:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7b398b4c-c076-4c57-885d-e659a5ae4c73.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:51:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:51:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7e01ff1e-969d-4dca-8ba6-e92da2ff016b.alikzbftf5.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"alikzbftf5"},{"Name":"integrity","Value":"sha256-Htp2WbeRd758vHJ1hbMnGghBquMScAC07V3tHCmO4dE="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022Htp2WbeRd758vHJ1hbMnGghBquMScAC07V3tHCmO4dE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:12:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Htp2WbeRd758vHJ1hbMnGghBquMScAC07V3tHCmO4dE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022Htp2WbeRd758vHJ1hbMnGghBquMScAC07V3tHCmO4dE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:12:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/85af65d8-de0c-4cbd-9cb0-896ddacf8490.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\85af65d8-de0c-4cbd-9cb0-896ddacf8490.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/85af65d8-de0c-4cbd-9cb0-896ddacf8490.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:31:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/85af65d8-de0c-4cbd-9cb0-896ddacf8490.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\85af65d8-de0c-4cbd-9cb0-896ddacf8490.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:31:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/893344b5-5757-4903-847e-53a56c66b7f1.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\893344b5-5757-4903-847e-53a56c66b7f1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/893344b5-5757-4903-847e-53a56c66b7f1.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:04:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/893344b5-5757-4903-847e-53a56c66b7f1.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\893344b5-5757-4903-847e-53a56c66b7f1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:04:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/8cbf25fb-4295-4014-bb44-3d13d5e545e7.8rytya3ynr.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8cbf25fb-4295-4014-bb44-3d13d5e545e7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rytya3ynr"},{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/8cbf25fb-4295-4014-bb44-3d13d5e545e7.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/8cbf25fb-4295-4014-bb44-3d13d5e545e7.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\8cbf25fb-4295-4014-bb44-3d13d5e545e7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/91fbe323-8a8f-46fb-af16-99484a5b1db7.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\91fbe323-8a8f-46fb-af16-99484a5b1db7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/91fbe323-8a8f-46fb-af16-99484a5b1db7.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:07:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/91fbe323-8a8f-46fb-af16-99484a5b1db7.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\91fbe323-8a8f-46fb-af16-99484a5b1db7.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:07:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9305c302-099d-49ff-9769-d6b46d123f51.rcl3d0gztc.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9305c302-099d-49ff-9769-d6b46d123f51.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rcl3d0gztc"},{"Name":"integrity","Value":"sha256-23tw3wP5EFIFHnluco\u002BXRgYtC8LeRjOUqjzw/F8QBsQ="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/9305c302-099d-49ff-9769-d6b46d123f51.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3408"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u002223tw3wP5EFIFHnluco\u002BXRgYtC8LeRjOUqjzw/F8QBsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9305c302-099d-49ff-9769-d6b46d123f51.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9305c302-099d-49ff-9769-d6b46d123f51.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-23tw3wP5EFIFHnluco\u002BXRgYtC8LeRjOUqjzw/F8QBsQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3408"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u002223tw3wP5EFIFHnluco\u002BXRgYtC8LeRjOUqjzw/F8QBsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:26:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/964062bc-4e73-4dbf-aa7d-ef34fdf95848.srizyapr0s.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\964062bc-4e73-4dbf-aa7d-ef34fdf95848.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"srizyapr0s"},{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/964062bc-4e73-4dbf-aa7d-ef34fdf95848.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 07:38:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/964062bc-4e73-4dbf-aa7d-ef34fdf95848.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\964062bc-4e73-4dbf-aa7d-ef34fdf95848.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 07:38:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9a618c49-9fd8-4656-90f9-a3e5e74ed764.lozd8tpmb6.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9a618c49-9fd8-4656-90f9-a3e5e74ed764.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lozd8tpmb6"},{"Name":"integrity","Value":"sha256-5aFgN4vKIt9/sEZq/E7FxU1X\u002BlV6P51TxcEnFx1vCgE="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/9a618c49-9fd8-4656-90f9-a3e5e74ed764.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3194"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00225aFgN4vKIt9/sEZq/E7FxU1X\u002BlV6P51TxcEnFx1vCgE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 23:08:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9a618c49-9fd8-4656-90f9-a3e5e74ed764.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9a618c49-9fd8-4656-90f9-a3e5e74ed764.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5aFgN4vKIt9/sEZq/E7FxU1X\u002BlV6P51TxcEnFx1vCgE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3194"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00225aFgN4vKIt9/sEZq/E7FxU1X\u002BlV6P51TxcEnFx1vCgE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 23:08:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9c619256-10f9-452e-ab92-45350cf345f1.6fgzz3al54.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c619256-10f9-452e-ab92-45350cf345f1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6fgzz3al54"},{"Name":"integrity","Value":"sha256-4gxRsQrtHm4UubjoR\u002Be2Ui\u002B2AGcO0nynZ6ik0GiXQNQ="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/9c619256-10f9-452e-ab92-45350cf345f1.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14094"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00224gxRsQrtHm4UubjoR\u002Be2Ui\u002B2AGcO0nynZ6ik0GiXQNQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:18:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9c619256-10f9-452e-ab92-45350cf345f1.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c619256-10f9-452e-ab92-45350cf345f1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4gxRsQrtHm4UubjoR\u002Be2Ui\u002B2AGcO0nynZ6ik0GiXQNQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14094"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00224gxRsQrtHm4UubjoR\u002Be2Ui\u002B2AGcO0nynZ6ik0GiXQNQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:18:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9ca57155-f310-4c7b-82a5-e21a1878e419.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9ca57155-f310-4c7b-82a5-e21a1878e419.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/9ca57155-f310-4c7b-82a5-e21a1878e419.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:35:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9ca57155-f310-4c7b-82a5-e21a1878e419.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9ca57155-f310-4c7b-82a5-e21a1878e419.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 22:35:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9d0c173f-55c7-4ceb-9849-9f5468eb08f3.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9d0c173f-55c7-4ceb-9849-9f5468eb08f3.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/9d0c173f-55c7-4ceb-9849-9f5468eb08f3.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 08:10:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/9d0c173f-55c7-4ceb-9849-9f5468eb08f3.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9d0c173f-55c7-4ceb-9849-9f5468eb08f3.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 08:10:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/a10e9fb0-b6db-4716-ad50-5e1b0ce53365.8rytya3ynr.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rytya3ynr"},{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b2e10bba-0f69-4c78-ae4d-eba988f642de.gj26dt4h0f.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gj26dt4h0f"},{"Name":"integrity","Value":"sha256-pGzfDr0r9WavAwRHKucoQqL37brzquZmVJEdDsTBHCE="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14095"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pGzfDr0r9WavAwRHKucoQqL37brzquZmVJEdDsTBHCE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:20:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pGzfDr0r9WavAwRHKucoQqL37brzquZmVJEdDsTBHCE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14095"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pGzfDr0r9WavAwRHKucoQqL37brzquZmVJEdDsTBHCE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:20:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b561e473-1f0f-45ca-911c-3f6e7ea94749.ofbbahb8ys.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b561e473-1f0f-45ca-911c-3f6e7ea94749.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ofbbahb8ys"},{"Name":"integrity","Value":"sha256-pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/b561e473-1f0f-45ca-911c-3f6e7ea94749.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14016"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:46:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b561e473-1f0f-45ca-911c-3f6e7ea94749.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b561e473-1f0f-45ca-911c-3f6e7ea94749.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14016"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022pOxmByCb3IMAmIy5P622YP4rmXtaVGfORxZuwOdHucE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:46:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b5cb5f83-ab8d-4ce2-b382-738fceee6516.8bm7ojbx98.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8bm7ojbx98"},{"Name":"integrity","Value":"sha256-TF901qTshzDQxfQPixaVyc1AvZ/M12ytY7m02nnN01M="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14040"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022TF901qTshzDQxfQPixaVyc1AvZ/M12ytY7m02nnN01M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:27:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TF901qTshzDQxfQPixaVyc1AvZ/M12ytY7m02nnN01M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14040"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022TF901qTshzDQxfQPixaVyc1AvZ/M12ytY7m02nnN01M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:27:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.oh8gyi5nbh.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oh8gyi5nbh"},{"Name":"integrity","Value":"sha256-BHeLY5cn1oLhlU4StsiHRG/q5e4c6gAZB9hCs0xoOvI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3408"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022BHeLY5cn1oLhlU4StsiHRG/q5e4c6gAZB9hCs0xoOvI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BHeLY5cn1oLhlU4StsiHRG/q5e4c6gAZB9hCs0xoOvI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3408"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022BHeLY5cn1oLhlU4StsiHRG/q5e4c6gAZB9hCs0xoOvI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:25:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/bbbc15eb-99ab-4839-b9fb-f9f42fd6d721.taqlaq8298.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bbbc15eb-99ab-4839-b9fb-f9f42fd6d721.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"taqlaq8298"},{"Name":"integrity","Value":"sha256-ZWpCXH74A580/Q8ecaMZp0cvvfeLx6Pwzyuv1E6kOwk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/bbbc15eb-99ab-4839-b9fb-f9f42fd6d721.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3125"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022ZWpCXH74A580/Q8ecaMZp0cvvfeLx6Pwzyuv1E6kOwk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/bbbc15eb-99ab-4839-b9fb-f9f42fd6d721.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bbbc15eb-99ab-4839-b9fb-f9f42fd6d721.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZWpCXH74A580/Q8ecaMZp0cvvfeLx6Pwzyuv1E6kOwk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3125"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022ZWpCXH74A580/Q8ecaMZp0cvvfeLx6Pwzyuv1E6kOwk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/c3809cce-c6c5-49b5-bb55-e44ef13c929e.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c3809cce-c6c5-49b5-bb55-e44ef13c929e.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/c3809cce-c6c5-49b5-bb55-e44ef13c929e.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 08:07:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/c3809cce-c6c5-49b5-bb55-e44ef13c929e.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c3809cce-c6c5-49b5-bb55-e44ef13c929e.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 08:07:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/c407baef-46c9-413c-b876-b94f70270f34.srizyapr0s.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c407baef-46c9-413c-b876-b94f70270f34.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"srizyapr0s"},{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/c407baef-46c9-413c-b876-b94f70270f34.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:02:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/c407baef-46c9-413c-b876-b94f70270f34.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c407baef-46c9-413c-b876-b94f70270f34.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 12:02:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.8feyhg3o3r.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8feyhg3o3r"},{"Name":"integrity","Value":"sha256-fGF3DjUcmh7N5iw7urGyeSheCyZkdKaCxybJeTAuJ1w="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14044"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022fGF3DjUcmh7N5iw7urGyeSheCyZkdKaCxybJeTAuJ1w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:34:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fGF3DjUcmh7N5iw7urGyeSheCyZkdKaCxybJeTAuJ1w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14044"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022fGF3DjUcmh7N5iw7urGyeSheCyZkdKaCxybJeTAuJ1w=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:34:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cc4b7068-471f-4902-98ac-4e05ca0e172a.x3g3a4gckp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cc4b7068-471f-4902-98ac-4e05ca0e172a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3g3a4gckp"},{"Name":"integrity","Value":"sha256-s7FOpLI\u002BWPbaFSGYPScrsWnXz4SxNtkksh2T/t/prIk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/cc4b7068-471f-4902-98ac-4e05ca0e172a.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022s7FOpLI\u002BWPbaFSGYPScrsWnXz4SxNtkksh2T/t/prIk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:09:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cc4b7068-471f-4902-98ac-4e05ca0e172a.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cc4b7068-471f-4902-98ac-4e05ca0e172a.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s7FOpLI\u002BWPbaFSGYPScrsWnXz4SxNtkksh2T/t/prIk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3265"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022s7FOpLI\u002BWPbaFSGYPScrsWnXz4SxNtkksh2T/t/prIk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 22:09:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cee76aa9-3df0-4300-894f-9d0f1ad90c8c.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cee76aa9-3df0-4300-894f-9d0f1ad90c8c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/cee76aa9-3df0-4300-894f-9d0f1ad90c8c.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:23:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/cee76aa9-3df0-4300-894f-9d0f1ad90c8c.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cee76aa9-3df0-4300-894f-9d0f1ad90c8c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 19:23:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d32f93a9-1689-4c0f-b46a-5325431df7ff.8rytya3ynr.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d32f93a9-1689-4c0f-b46a-5325431df7ff.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8rytya3ynr"},{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/d32f93a9-1689-4c0f-b46a-5325431df7ff.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d32f93a9-1689-4c0f-b46a-5325431df7ff.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d32f93a9-1689-4c0f-b46a-5325431df7ff.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3313"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022NM9rEiJU8/B29wXjc7sXZfOaHpD\u002BDuaWuIBnJUPOPHM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 11:26:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d58905d1-39d2-4457-882a-ffcbe0deccd1.srizyapr0s.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d58905d1-39d2-4457-882a-ffcbe0deccd1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"srizyapr0s"},{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/d58905d1-39d2-4457-882a-ffcbe0deccd1.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d58905d1-39d2-4457-882a-ffcbe0deccd1.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d58905d1-39d2-4457-882a-ffcbe0deccd1.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14087"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022OJy77/WPsZyKAVJwSjai2R/7n\u002BDkVDTigrjVEflu8g8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:26:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d9ed6922-339e-49ea-a5d2-0330e2cdb649.mw6808pcko.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mw6808pcko"},{"Name":"integrity","Value":"sha256-9oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14093"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00229oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:10:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14093"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00229oSChJ2pJ44SsKUNTByxvxWsrXZNr35e6F\u002Bg4XWETZ0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:10:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/e541bbaf-d640-4410-a7ce-ce93394f6109.0sgffzvxzi.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sgffzvxzi"},{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:38:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 23:38:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/ee5a59b6-761a-4c62-b8db-c51535fe0259.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ee5a59b6-761a-4c62-b8db-c51535fe0259.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/ee5a59b6-761a-4c62-b8db-c51535fe0259.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 20:36:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/ee5a59b6-761a-4c62-b8db-c51535fe0259.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ee5a59b6-761a-4c62-b8db-c51535fe0259.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Mar 2025 20:36:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/ef5e6c5c-5904-4735-b178-1f40f57cd787.cykf4gfrc0.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cykf4gfrc0"},{"Name":"integrity","Value":"sha256-1Iuq1whaRRJp1BMwLDYvPbXH6kRv/Pb3Y1AIphvKIN0="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3295"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00221Iuq1whaRRJp1BMwLDYvPbXH6kRv/Pb3Y1AIphvKIN0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 07:38:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1Iuq1whaRRJp1BMwLDYvPbXH6kRv/Pb3Y1AIphvKIN0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3295"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u00221Iuq1whaRRJp1BMwLDYvPbXH6kRv/Pb3Y1AIphvKIN0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 07:38:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/f347c726-63aa-4215-8956-90b25ad1de4f.2sia3m3f6b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f347c726-63aa-4215-8956-90b25ad1de4f.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2sia3m3f6b"},{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/f347c726-63aa-4215-8956-90b25ad1de4f.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:49:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/f347c726-63aa-4215-8956-90b25ad1de4f.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f347c726-63aa-4215-8956-90b25ad1de4f.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13939"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:49:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/f6eed767-9d3f-4ced-8ba1-6732acfea6d6.8xx2roe2or.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f6eed767-9d3f-4ced-8ba1-6732acfea6d6.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8xx2roe2or"},{"Name":"integrity","Value":"sha256-PNMYN8D3O6Vdrzgh3BSGVbwZpC2QPWxDyY5chIuy2ds="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/f6eed767-9d3f-4ced-8ba1-6732acfea6d6.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3393"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022PNMYN8D3O6Vdrzgh3BSGVbwZpC2QPWxDyY5chIuy2ds=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:18:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/f6eed767-9d3f-4ced-8ba1-6732acfea6d6.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f6eed767-9d3f-4ced-8ba1-6732acfea6d6.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNMYN8D3O6Vdrzgh3BSGVbwZpC2QPWxDyY5chIuy2ds="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3393"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022PNMYN8D3O6Vdrzgh3BSGVbwZpC2QPWxDyY5chIuy2ds=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 23:18:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fbc859cf-5323-4513-9720-2411b690d70c.eopquwbxnc.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fbc859cf-5323-4513-9720-2411b690d70c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eopquwbxnc"},{"Name":"integrity","Value":"sha256-flLLxt6WltVKWU0qh9870kjHsGp5INNpaZ/aSCSPy70="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/fbc859cf-5323-4513-9720-2411b690d70c.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3125"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022flLLxt6WltVKWU0qh9870kjHsGp5INNpaZ/aSCSPy70=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fbc859cf-5323-4513-9720-2411b690d70c.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fbc859cf-5323-4513-9720-2411b690d70c.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-flLLxt6WltVKWU0qh9870kjHsGp5INNpaZ/aSCSPy70="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3125"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022flLLxt6WltVKWU0qh9870kjHsGp5INNpaZ/aSCSPy70=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 00:47:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fc7644c5-3e6d-4bbc-a90c-1351b65f915b.5mtctga4zp.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc7644c5-3e6d-4bbc-a90c-1351b65f915b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5mtctga4zp"},{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/fc7644c5-3e6d-4bbc-a90c-1351b65f915b.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 14:41:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fc7644c5-3e6d-4bbc-a90c-1351b65f915b.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc7644c5-3e6d-4bbc-a90c-1351b65f915b.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13877"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022E8Je43E4ymyNQR/DLM\u002B50TzPhV6lFt6AzCf3rqTgLrI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 14:41:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fd08895f-0b05-4f10-8772-50020911c4c8.0sgffzvxzi.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fd08895f-0b05-4f10-8772-50020911c4c8.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0sgffzvxzi"},{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="},{"Name":"label","Value":"_content/mikroLinkAPI.WebAPI/uploads/fd08895f-0b05-4f10-8772-50020911c4c8.xlsx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:24:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mikroLinkAPI.WebAPI/uploads/fd08895f-0b05-4f10-8772-50020911c4c8.xlsx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fd08895f-0b05-4f10-8772-50020911c4c8.xlsx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14037"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"},{"Name":"ETag","Value":"\u0022UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 22:24:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xSQur48Lyb5+8tQpnV3NtlO66dWgFOLhCVtAWnteej8=",
+  "Source": "mikroLinkAPI.WebAPI",
+  "BasePath": "_content/mikroLinkAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

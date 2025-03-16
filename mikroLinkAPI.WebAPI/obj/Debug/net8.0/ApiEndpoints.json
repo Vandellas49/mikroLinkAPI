@@ -1,0 +1,1074 @@
+[
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Auth.Login.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyAdd",
+    "RelativePath": "api/Company/CompanyAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.CompanyAdd.CompanyAddQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyByName",
+    "RelativePath": "api/Company/CompanyByName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.GetCompanyByName.CompanyByNameQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyDelete",
+    "RelativePath": "api/Company/CompanyDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.CompanyDelete.CompanyDeleteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyExcel",
+    "RelativePath": "api/Company/CompanyExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.CompanyExport.CompanyExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyList",
+    "RelativePath": "api/Company/CompanyList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.GetCompany.CompanyQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyController",
+    "Method": "CompanyUpdate",
+    "RelativePath": "api/Company/CompanyUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Companies.CompanyUpdate.CompanyUpdateQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanySiteAuthorizationController",
+    "Method": "CompanySiteAuthAdd",
+    "RelativePath": "api/CompanySiteAuthorization/CompanySiteAuthAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.CompanySiteAuthorization.CompanySiteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanySiteAuthorizationController",
+    "Method": "GetCompanySite",
+    "RelativePath": "api/CompanySiteAuthorization/GetCompanySite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.CompanySiteAuthorization.GetCompanySiteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyToCompanyAuthorizationController",
+    "Method": "CompanyToCompanyAuthAdd",
+    "RelativePath": "api/CompanyToCompanyAuthorization/CompanyToCompanyAuthAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.CompanyToCompanyAuthorization.CompanyToCompanyQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.CompanyToCompanyAuthorizationController",
+    "Method": "GetCompanyToCompany",
+    "RelativePath": "api/CompanyToCompanyAuthorization/GetCompanyToCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.CompanyToCompanyAuthorization.GetCompanyToCompanyQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentAdd",
+    "RelativePath": "api/Component/ComponentAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.ComponentAdd.ComponentAddCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentAddByExcel",
+    "RelativePath": "api/Component/ComponentAddByExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentByCode",
+    "RelativePath": "api/Component/ComponentByCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.GetComponentByCode.ComponentByCodeQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentDelete",
+    "RelativePath": "api/Component/ComponentDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.ComponentDelete.ComponentDeleteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentExcel",
+    "RelativePath": "api/Component/ComponentExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.ComponentExport.ComponentExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentList",
+    "RelativePath": "api/Component/ComponentList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.GetComponent.ComponentQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.ComponentController",
+    "Method": "ComponentUpdate",
+    "RelativePath": "api/Component/ComponentUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Components.ComponentUpdate.ComponentUpdateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.DashBoardController",
+    "Method": "DeleteTopic",
+    "RelativePath": "api/DashBoard/DeleteTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RabbitMq.DeleteTopicCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.DashBoardController",
+    "Method": "GetDashBoard",
+    "RelativePath": "api/DashBoard/GetDashBoard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Dashboard.DashboardQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.DashBoardController",
+    "Method": "GetEvents",
+    "RelativePath": "api/DashBoard/GetEvents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RabbitMq.GetPendingMessagesCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.DashBoardController",
+    "Method": "GetJobInfo",
+    "RelativePath": "api/DashBoard/GetJobInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.HangFire.GetJobInfoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.DashBoardController",
+    "Method": "GetReportById",
+    "RelativePath": "api/DashBoard/GetReportById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.HangFire.GetReportById.GetReportByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.IllerController",
+    "Method": "GetIller",
+    "RelativePath": "api/Iller/GetIller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Il.GetIller.GetIllerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialForTeamLeader",
+    "RelativePath": "api/Metarial/GetMetarialForTeamLeader",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForTeamLeader.GetMetarialForTeamLeaderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialRequest",
+    "RelativePath": "api/Metarial/GetMetarialRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForRequest.MetarialRequestQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialRequestBySeriNo",
+    "RelativePath": "api/Metarial/GetMetarialRequestBySeriNo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForRequest.GetMatreialByRequestAndSeriNo.GetMatreialByRequestAndSeriNoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialSiteRequest",
+    "RelativePath": "api/Metarial/GetMetarialSiteRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForSite.MetarialBySiteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialVerification",
+    "RelativePath": "api/Metarial/GetMetarialVerification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForVerification.MetarialVerificationQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialAdd",
+    "RelativePath": "api/Metarial/MetarialAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialAdd.MetarialAddCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialAddByExcel",
+    "RelativePath": "api/Metarial/MetarialAddByExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialCikisLog",
+    "RelativePath": "api/Metarial/MetarialCikisLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialExit.MetarialExitCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialCikisLogExcel",
+    "RelativePath": "api/Metarial/MetarialCikisLogExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialExitExport.MetarialExitExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialExcel",
+    "RelativePath": "api/Metarial/MetarialExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialExport.MetarialExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialForTeamLeader",
+    "RelativePath": "api/Metarial/MetarialForTeamLeader",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialForTeamLeader.MetarialForTeamLeaderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialGirisLog",
+    "RelativePath": "api/Metarial/MetarialGirisLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialIn.MetarialInCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialGirisLogExcel",
+    "RelativePath": "api/Metarial/MetarialGirisLogExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialInExport.MetarialInExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialList",
+    "RelativePath": "api/Metarial/MetarialList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarials.MetarialQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialVerification",
+    "RelativePath": "api/Metarial/MetarialVerification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialVerification.MetarialVerificationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "SiteMetarialAddByExcel",
+    "RelativePath": "api/Metarial/SiteMetarialAddByExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "SiteMetarialList",
+    "RelativePath": "api/Metarial/SiteMetarialList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.SiteMetarial.GetMetarials.SiteMetarialQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RandevuController",
+    "Method": "GetRandevuPlanlama",
+    "RelativePath": "api/Randevu/GetRandevuPlanlama",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RandevuPlanlama.GetRandevuPlanlama.GetRandevuPlanlamaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RandevuController",
+    "Method": "GetRandevuTalep",
+    "RelativePath": "api/Randevu/GetRandevuTalep",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RandevuTalep.GetRandevuTalep.GetRandevuTalepCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RandevuController",
+    "Method": "GetRandevuTalepByDate",
+    "RelativePath": "api/Randevu/GetRandevuTalepByDate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RandevuTalep.GetRandevuTalepByDate.GetRandevuTalepByDateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RandevuController",
+    "Method": "RandevuPlanAdd",
+    "RelativePath": "api/Randevu/RandevuPlanAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RandevuPlanlama.RandevuPlanlamaAdd.RandevuPlanlamaAddCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RandevuController",
+    "Method": "RandevuTalep",
+    "RelativePath": "api/Randevu/RandevuTalep",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.RandevuTalep.RandevuTalep.RandevuTalepCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "GetGelenTalepler",
+    "RelativePath": "api/Request/GetGelenTalepler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.GetReceivedRequests.RequestsReceivedQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "GetGidenTalepler",
+    "RelativePath": "api/Request/GetGidenTalepler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.GetRequests.FetchDispatchedRequestsQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "GetRequestById",
+    "RelativePath": "api/Request/GetRequestById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.GetRequestById.RequestByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "GetTalepler",
+    "RelativePath": "api/Request/GetTalepler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.GetRequests.RequestsQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "MetarialRequest",
+    "RelativePath": "api/Request/MetarialRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.MetarialRequest.MetarialRequestCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "MetarialRequestComplate",
+    "RelativePath": "api/Request/MetarialRequestComplate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.MetarialRequestComplate.MetarialRequestComplateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "MetarialRequestTeamLeader",
+    "RelativePath": "api/Request/MetarialRequestTeamLeader",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.MetarialRequestTeamLeader.MetarialRequestTeamLeaderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "MetarialSiteRequest",
+    "RelativePath": "api/Request/MetarialSiteRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.MetarialSiteRequest.MetarialSiteRequestCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "MetarialSiteRequestUpdate",
+    "RelativePath": "api/Request/MetarialSiteRequestUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.MetarialRequestUpdate.MetarialRequestUpdateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RequestController",
+    "Method": "RequestDelete",
+    "RelativePath": "api/Request/RequestDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Requests.RequestDelete.RequestDeleteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.RoleController",
+    "Method": "GetAuthority",
+    "RelativePath": "api/Role/GetAuthority",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Role.RoleQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "GetSiteFromCache",
+    "RelativePath": "api/Site/GetSiteFromCache",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.GetSiteFromCache.SiteFromCacheQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteAdd",
+    "RelativePath": "api/Site/SiteAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.SiteAdd.SiteAddQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteBySiteName",
+    "RelativePath": "api/Site/SiteBySiteName",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.GetSiteBySiteOrSiteId.SiteIdOrSiteNameQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteDelete",
+    "RelativePath": "api/Site/SiteDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.SiteDelete.SiteDeleteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteExcel",
+    "RelativePath": "api/Site/SiteExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.SiteExport.SiteExportCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteList",
+    "RelativePath": "api/Site/SiteList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.GetSite.SiteQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.SiteController",
+    "Method": "SiteUpdate",
+    "RelativePath": "api/Site/SiteUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Sites.SiteUpdate.SiteUpdateQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.UserController",
+    "Method": "GetActiveUsers",
+    "RelativePath": "api/User/GetActiveUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Users.GetActiveUsers.ActiveUsersCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/User/GetUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Users.GetUsers.UsersQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.UserController",
+    "Method": "TeamLeaderByCompanyId",
+    "RelativePath": "api/User/TeamLeaderByCompanyId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Users.TeamLeader.TeamLeaderByCompanyIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
