@@ -3,11 +3,28 @@ using mikroLinkAPI.Application.Services;
 using mikroLinkAPI.Domain.Entities;
 using mikroLinkAPI.Domain.Interfaces;
 using mikroLinkAPI.Domain.Repositories;
+using mikroLinkAPI.Domain.ViewModel;
+using System.Collections.Concurrent;
 
 namespace mikroLinkAPI.Infrastructure.Jobs
 {
     public class DailyResetService(IUserSessionRepository userSessionRepository, ICacheHelper cache, IUnitOfWork unitOfWork) : IDailyResetService
     {
+        public async Task CheckUserSessions()
+        {
+            var date = DateTime.Now.AddSeconds(-30);
+            var onlineusers = await cache.GetUserOnlineAsync();
+            foreach (var item in onlineusers)
+            {
+                var users = new ConcurrentDictionary<string, ConcurrentBag<UserSignalR>>();
+                foreach (var usr in item.Value)
+                    foreach (var conn in usr.Value)
+                        if (conn.ConnectionDate > date)
+                            users.GetOrAdd(usr.Key, _ => new ConcurrentBag<UserSignalR>() { conn });
+                cache.Set(item.Key, users);
+            }
+        }
+
         public async Task ResetDailySessions()
         {
             var cacheEntries = await cache.GetUserSessionsAsync();

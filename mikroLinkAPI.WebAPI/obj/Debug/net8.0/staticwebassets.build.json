@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xQOlOlxmS3dbqUPY3kmER2OMnWT4b5MPbawT8LgZd4g=",
+  "Hash": "g2cqiY+yEcbqwIlGN4n5MfOSOO/Bt/h77nyP9UEwHQY=",
   "Source": "mikroLinkAPI.WebAPI",
   "BasePath": "_content/mikroLinkAPI.WebAPI",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\0689d463-f56f-4e58-978b-385e6103ec1b.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/0965026b-f52c-4dd8-a4b1-8f9ee1144747#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wk29sfe77n",
+      "Integrity": "UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\1.xlsx",
@@ -290,6 +311,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/2982f073-fff4-48eb-8902-9b67749cf9c5#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\31d8a571-30fb-424f-8a06-dba644c804f7.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -395,6 +437,90 @@
       "OriginalItemSpec": "wwwroot\\uploads\\3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\3de2290a-e809-466f-b040-784c3da98b82.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/3de2290a-e809-466f-b040-784c3da98b82#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3de2290a-e809-466f-b040-784c3da98b82.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/42c0efae-a06f-4a38-a7fc-b1466166be73#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/43cce7d3-6495-487f-b3d3-72c394aef4a4#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr9e1n0cmk",
+      "Integrity": "8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/4a59e63e-56d7-42a1-893d-4e20b3791b3d#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8li50cunbh",
+      "Integrity": "pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -414,6 +540,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/587f73bb-7d92-4802-8688-2560bf9cb920#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iyd7sj9sqk",
+      "Integrity": "lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx",
@@ -521,6 +668,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\6fd54587-638f-48a3-b793-51a0c72c8080.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/7056db15-8224-49c4-8f42-04e7c1211d24#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -540,6 +708,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/7231ced4-fffe-41fe-8bbb-c4a54c13303b#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0a3mydy3p3",
+      "Integrity": "6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7308ec61-2086-41cc-ac13-c576a87514b5.xlsx",
@@ -626,6 +815,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -645,6 +855,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/7cab4c09-a177-4d30-8726-6d9d4d19fc7c#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "chq2l9zaww",
+      "Integrity": "kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx",
@@ -899,6 +1130,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/a7805970-fde8-450a-82a0-10e93d7798d6#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0a3mydy3p3",
+      "Integrity": "6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -960,6 +1212,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ilhdqjfzh",
+      "Integrity": "37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx",
@@ -1044,6 +1317,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\c407baef-46c9-413c-b876-b94f70270f34.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/c4b715fe-efb5-4ef7-b7c9-a3c4c8757363#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hlfnj3ju5q",
+      "Integrity": "tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/c9f6bdab-6d67-43a2-a9f0-7846b933a00c#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx",
@@ -1172,6 +1487,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx"
     },
     {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/dc3de8a5-c716-4a5b-9e0f-167e2f160bab#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lozd8tpmb6",
+      "Integrity": "5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/ddb97b92-3093-4f54-b17f-2200bf9d4125#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wk29sfe77n",
+      "Integrity": "UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv"
+    },
+    {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx",
       "SourceId": "mikroLinkAPI.WebAPI",
       "SourceType": "Discovered",
@@ -1233,6 +1590,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/f20c89bb-7e91-42d7-ba8e-b939eabed1f6#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9bowdh7mis",
+      "Integrity": "67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx"
     },
     {
       "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\f347c726-63aa-4215-8956-90b25ad1de4f.xlsx",
@@ -1338,6 +1716,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\fd08895f-0b05-4f10-8772-50020911c4c8.xlsx"
+    },
+    {
+      "Identity": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx",
+      "SourceId": "mikroLinkAPI.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\",
+      "BasePath": "_content/mikroLinkAPI.WebAPI",
+      "RelativePath": "uploads/fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kr9e1n0cmk",
+      "Integrity": "8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx"
     }
   ],
   "Endpoints": [
@@ -1502,6 +1901,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-E8Je43E4ymyNQR/DLM+50TzPhV6lFt6AzCf3rqTgLrI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:12:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0965026b-f52c-4dd8-a4b1-8f9ee1144747.wk29sfe77n.csv",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:12:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wk29sfe77n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ="
         }
       ]
     },
@@ -2408,6 +2889,88 @@
       ]
     },
     {
+      "Route": "uploads/2982f073-fff4-48eb-8902-9b67749cf9c5.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/31d8a571-30fb-424f-8a06-dba644c804f7.2sia3m3f6b.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\31d8a571-30fb-424f-8a06-dba644c804f7.xlsx",
       "Selectors": [],
@@ -2818,6 +3381,334 @@
       ]
     },
     {
+      "Route": "uploads/3de2290a-e809-466f-b040-784c3da98b82.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\3de2290a-e809-466f-b040-784c3da98b82.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3de2290a-e809-466f-b040-784c3da98b82.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3de2290a-e809-466f-b040-784c3da98b82.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\3de2290a-e809-466f-b040-784c3da98b82.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/42c0efae-a06f-4a38-a7fc-b1466166be73.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:01:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/43cce7d3-6495-487f-b3d3-72c394aef4a4.kr9e1n0cmk.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:07:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr9e1n0cmk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:07:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4a59e63e-56d7-42a1-893d-4e20b3791b3d.8li50cunbh.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8li50cunbh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/4ef71fdf-2d21-4613-9d39-3d10098d4e54.pqjz3gz46d.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx",
       "Selectors": [],
@@ -2896,6 +3787,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-saHyC5IXar4WaAxTZqF33RzAtuOJJYELl+kp0XRPDSM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/587f73bb-7d92-4802-8688-2560bf9cb920.iyd7sj9sqk.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyd7sj9sqk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/587f73bb-7d92-4802-8688-2560bf9cb920.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/587f73bb-7d92-4802-8688-2560bf9cb920.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE="
         }
       ]
     },
@@ -3310,6 +4283,88 @@
       ]
     },
     {
+      "Route": "uploads/7056db15-8224-49c4-8f42-04e7c1211d24.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:35:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7056db15-8224-49c4-8f42-04e7c1211d24.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7056db15-8224-49c4-8f42-04e7c1211d24.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:35:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.0sgffzvxzi.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx",
       "Selectors": [],
@@ -3388,6 +4443,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7231ced4-fffe-41fe-8bbb-c4a54c13303b.0a3mydy3p3.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0a3mydy3p3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:18:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE="
         }
       ]
     },
@@ -3720,6 +4857,88 @@
       ]
     },
     {
+      "Route": "uploads/7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/7b398b4c-c076-4c57-885d-e659a5ae4c73.2sia3m3f6b.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx",
       "Selectors": [],
@@ -3798,6 +5017,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-kmhD3XY10foNBjw5CEF8P0UyPQPz6n8IQuWavKOwwYo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7cab4c09-a177-4d30-8726-6d9d4d19fc7c.chq2l9zaww.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "chq2l9zaww"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk="
         }
       ]
     },
@@ -4786,6 +6087,88 @@
       ]
     },
     {
+      "Route": "uploads/a7805970-fde8-450a-82a0-10e93d7798d6.0a3mydy3p3.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:04:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0a3mydy3p3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a7805970-fde8-450a-82a0-10e93d7798d6.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a7805970-fde8-450a-82a0-10e93d7798d6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:04:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/b2e10bba-0f69-4c78-ae4d-eba988f642de.gj26dt4h0f.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx",
       "Selectors": [],
@@ -5028,6 +6411,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-TF901qTshzDQxfQPixaVyc1AvZ/M12ytY7m02nnN01M="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.9ilhdqjfzh.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ilhdqjfzh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM="
         }
       ]
     },
@@ -5356,6 +6821,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-OJy77/WPsZyKAVJwSjai2R/7n+DkVDTigrjVEflu8g8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.hlfnj3ju5q.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hlfnj3ju5q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:36:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c9f6bdab-6d67-43a2-a9f0-7846b933a00c.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:16:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:16:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
         }
       ]
     },
@@ -5852,6 +7481,170 @@
       ]
     },
     {
+      "Route": "uploads/dc3de8a5-c716-4a5b-9e0f-167e2f160bab.lozd8tpmb6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lozd8tpmb6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:10:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ddb97b92-3093-4f54-b17f-2200bf9d4125.csv",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:08:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ddb97b92-3093-4f54-b17f-2200bf9d4125.wk29sfe77n.csv",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:08:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wk29sfe77n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ddb97b92-3093-4f54-b17f-2200bf9d4125.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ="
+        }
+      ]
+    },
+    {
       "Route": "uploads/e541bbaf-d640-4410-a7ce-ce93394f6109.0sgffzvxzi.xlsx",
       "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx",
       "Selectors": [],
@@ -6094,6 +7887,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1Iuq1whaRRJp1BMwLDYvPbXH6kRv/Pb3Y1AIphvKIN0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f20c89bb-7e91-42d7-ba8e-b939eabed1f6.9bowdh7mis.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9bowdh7mis"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs="
         }
       ]
     },
@@ -6504,6 +8379,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-UPKLg0hJnGjeHcl5XGauQdqvSEN2oAYOHUiROQOsUfk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.kr9e1n0cmk.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:06:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kr9e1n0cmk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx",
+      "AssetFile": "C:\\Mikrolink\\mikroLinkAPI\\mikroLinkAPI.WebAPI\\wwwroot\\uploads\\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 23:06:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0="
         }
       ]
     }

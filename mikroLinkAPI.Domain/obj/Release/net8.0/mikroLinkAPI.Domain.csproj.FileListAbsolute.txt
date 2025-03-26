@@ -10,3 +10,4 @@ C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\mikroLinkAPI.Do
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\refint\mikroLinkAPI.Domain.dll
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\mikroLinkAPI.Domain.pdb
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\ref\mikroLinkAPI.Domain.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Domain\obj\Release\net8.0\mikroLinkAPI.Domain.sourcelink.json

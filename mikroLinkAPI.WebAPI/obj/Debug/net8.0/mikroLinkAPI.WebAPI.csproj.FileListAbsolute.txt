@@ -271,3 +271,4 @@ C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.WebAPI\bin\Debug\net8.0\zh\Hangfire.Core.
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.WebAPI\bin\Debug\net8.0\Hangfire.AspNetCore.dll
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.WebAPI\bin\Debug\net8.0\Hangfire.NetCore.dll
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.WebAPI\bin\Debug\net8.0\mikroLinkAPI.WebAPI.staticwebassets.runtime.json
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.WebAPI\obj\Debug\net8.0\mikroLinkAPI.WebAPI.sourcelink.json

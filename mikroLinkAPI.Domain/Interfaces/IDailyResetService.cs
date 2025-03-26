@@ -6,5 +6,6 @@ namespace mikroLinkAPI.Domain.Interfaces
     public interface IDailyResetService
     {
         Task ResetDailySessions();
+        Task CheckUserSessions();
     }
 }

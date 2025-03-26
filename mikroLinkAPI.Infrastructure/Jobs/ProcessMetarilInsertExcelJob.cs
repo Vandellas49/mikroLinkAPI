@@ -71,7 +71,8 @@ namespace mikroLinkAPI.Infrastructure.Jobs
             using (var package = new ExcelPackage(new FileInfo(filePath)))
             {
                 var worksheet = package.Workbook.Worksheets[0];
-
+                if (worksheet.Cells.Count() != 8)
+                    throw new Exception("Excel geçersiz.Excel sekiz alandan oluşmalıdır.(ComponentId,SeriNo,GIrsaliyeNo,Sağlam,Arzalı,Hurda,Raf,Malzeme Tipi)");
                 for (int row = 2; row <= worksheet.Dimension.Rows; row++)
                 {
                     var materialTypeString = worksheet.Cells[row, 8].Text;

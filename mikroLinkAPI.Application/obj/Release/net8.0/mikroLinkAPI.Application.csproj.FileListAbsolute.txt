@@ -19,3 +19,4 @@ C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Application\obj\Release\net8.0\mikroLinkA
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Application\obj\Release\net8.0\refint\mikroLinkAPI.Application.dll
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Application\obj\Release\net8.0\mikroLinkAPI.Application.pdb
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Application\obj\Release\net8.0\ref\mikroLinkAPI.Application.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Application\obj\Release\net8.0\mikroLinkAPI.Application.sourcelink.json

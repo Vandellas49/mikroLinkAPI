@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using mikroLinkAPI.Application.Features.Materials.GetMetarialForArea;
 using mikroLinkAPI.Application.Features.Materials.GetMetarialForRequest;
 using mikroLinkAPI.Application.Features.Materials.GetMetarialForRequest.GetMatreialByRequestAndSeriNo;
 using mikroLinkAPI.Application.Features.Materials.GetMetarialForSite;
@@ -15,6 +16,7 @@ using mikroLinkAPI.Application.Features.Materials.MetarialForTeamLeader;
 using mikroLinkAPI.Application.Features.Materials.MetarialIn;
 using mikroLinkAPI.Application.Features.Materials.MetarialInExport;
 using mikroLinkAPI.Application.Features.Materials.MetarialVerification;
+using mikroLinkAPI.Application.Features.Materials.MetarialVerificationForArea;
 using mikroLinkAPI.Application.Features.Materials.SiteMetarialAddByExcel;
 using mikroLinkAPI.Application.Features.SiteMetarial.GetMetarials;
 using mikroLinkAPI.WebAPI.Abstractions;
@@ -66,7 +68,19 @@ namespace mikroLinkAPI.WebAPI.Controllers
             return StatusCode(response.StatusCode, response);
         }     
         [HttpPost]
+        public async Task<IActionResult> GetMetarialForArea(MetarialVerificationForAreaQueryCommand request, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(request, cancellationToken);
+            return StatusCode(response.StatusCode, response);
+        }     
+        [HttpPost]
         public async Task<IActionResult> MetarialVerification(MetarialVerificationCommand request, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(request, cancellationToken);
+            return StatusCode(response.StatusCode, response);
+        }  
+        [HttpPost]
+        public async Task<IActionResult> MetarialVerificationForArea(MetarialVerificationCommandForArea request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
             return StatusCode(response.StatusCode, response);

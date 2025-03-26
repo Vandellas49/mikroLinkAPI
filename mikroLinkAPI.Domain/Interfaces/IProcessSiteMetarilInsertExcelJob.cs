@@ -1,4 +1,5 @@
-﻿using Hangfire.Server;
+﻿using Hangfire;
+using Hangfire.Server;
 using mikroLinkAPI.Domain.Attributes;
 
 namespace mikroLinkAPI.Domain.Interfaces
@@ -7,6 +8,8 @@ namespace mikroLinkAPI.Domain.Interfaces
 
     public interface IProcessSiteMetarilInsertExcelJob
     {
+        [AutomaticRetry(Attempts = 0)]
+
         Task RunAsync(int fileId, int UserId, PerformContext context);
     }
 }

@@ -122,6 +122,7 @@ namespace mikroLinkAPI.Application.Features.HangFire
                         HataExcelId = null,
                         ProcessDate = jobDetails.ExpireAt,
                         Status = "Hatalı",
+                        ErrorMessage= item.Value.StateData.FirstOrDefault(c=>c.Key== "ExceptionMessage").Value,
                         TalepExcelId = item.Value.Job.Args.FirstOrDefault()?.ToString(),
                         TotalCount = jobDetails.LoadException?.Message,
                         JobName = item.Value.Job.Type.GetCustomAttribute<GetJobInfoAttribute>().Value

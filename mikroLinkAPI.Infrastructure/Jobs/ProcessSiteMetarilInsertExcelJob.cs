@@ -23,7 +23,7 @@ namespace mikroLinkAPI.Infrastructure.Jobs
                                 IExcelHelper excelHelper,
                                 IExcelConvert excelConvert) : IProcessSiteMetarilInsertExcelJob
     {
-        [AutomaticRetry(Attempts = 1)]
+        [AutomaticRetry(Attempts = 0)]
         public async Task RunAsync(int fileId, int userId, PerformContext context)
         {
             var jobId = context.BackgroundJob?.Id;
@@ -70,7 +70,8 @@ namespace mikroLinkAPI.Infrastructure.Jobs
             using (var package = new ExcelPackage(new FileInfo(filePath)))
             {
                 var worksheet = package.Workbook.Worksheets[0];
-
+                if (worksheet.Cells.Count() != 8)
+                    throw new Exception("Excel geçersiz.Excel dokuz alandan oluşmalıdır.(SiteId,ComponentId,SeriNo,GIrsaliyeNo,Sağlam,Arzalı,Hurda,Raf,Malzeme Tipi)");
                 for (int row = 2; row <= worksheet.Dimension.Rows; row++)
                 {
                     var materialTypeString = worksheet.Cells[row, 9].Text;

@@ -10,6 +10,7 @@ namespace mikroLinkAPI.Application.Features.HangFire
         public string HataExcelId { get; set; }
         public string TalepExcelId { get; set; }
         public string JobName { get; set; }
+        public string ErrorMessage { get; set; }
 
     }
 }

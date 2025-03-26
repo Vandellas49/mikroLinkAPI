@@ -9,7 +9,7 @@ namespace mikroLinkAPI.Infrastructure.Services
         public void UserConnected(string userId)
         {
             var now = DateTime.Now;
-            if (cache.TryGet(userId, out var existingData))
+            if (cache.TryGet(userId, out Tuple<DateTime, double, bool> existingData))
                 cache.Set(userId, GetDuration(existingData, true), cacheExpiration);
             else
                 cache.Set(userId, new Tuple<DateTime, double, bool>(now, 0,true), cacheExpiration); 
@@ -17,7 +17,7 @@ namespace mikroLinkAPI.Infrastructure.Services
 
         public void UserDisconnected(string userId)
         {
-            if (cache.TryGet(userId, out var existingData))
+            if (cache.TryGet(userId, out Tuple<DateTime, double, bool> existingData))
             {
                 cache.Set(userId, GetDuration(existingData,false), cacheExpiration);
             }

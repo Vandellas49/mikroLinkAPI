@@ -385,6 +385,22 @@
   },
   {
     "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "GetMetarialForArea",
+    "RelativePath": "api/Metarial/GetMetarialForArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.GetMetarialForArea.MetarialVerificationForAreaQueryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
     "Method": "GetMetarialForTeamLeader",
     "RelativePath": "api/Metarial/GetMetarialForTeamLeader",
     "HttpMethod": "POST",
@@ -618,6 +634,22 @@
       {
         "Name": "request",
         "Type": "mikroLinkAPI.Application.Features.Materials.MetarialVerification.MetarialVerificationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "mikroLinkAPI.WebAPI.Controllers.MetarialController",
+    "Method": "MetarialVerificationForArea",
+    "RelativePath": "api/Metarial/MetarialVerificationForArea",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "mikroLinkAPI.Application.Features.Materials.MetarialVerificationForArea.MetarialVerificationCommandForArea",
         "IsRequired": true
       }
     ],

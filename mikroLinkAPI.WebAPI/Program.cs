@@ -75,6 +75,9 @@ builder.Services.AddRateLimiter(options =>
 });
 builder.Services.AddScoped<IDashboardNotificationService, DashboardNotificationService>();
 builder.Services.AddSignalR();
+builder.Services.AddCors(options =>
+    options.AddPolicy("AllowAll", p =>
+        p.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
@@ -88,6 +91,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.Urls.Add("http://0.0.0.0:5193");
 app.UseHangfireDashboard();
 app.UseHttpsRedirection();
 
@@ -116,6 +120,10 @@ using (var scope = app.Services.CreateScope())
     jobManager.AddOrUpdate<IDailyResetService>(
         "ResetUserSessions",
         x => x.ResetDailySessions(),
+        "*/2 * * * *");   
+    jobManager.AddOrUpdate<IDailyResetService>(
+        "ResetOnlineUsers",
+        x => x.CheckUserSessions(),
         "*/2 * * * *");
 }
 

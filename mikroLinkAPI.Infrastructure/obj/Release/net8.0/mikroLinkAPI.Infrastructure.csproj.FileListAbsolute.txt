@@ -23,3 +23,4 @@ C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Infrastructure\obj\Release\net8.0\refint\
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Infrastructure\obj\Release\net8.0\mikroLinkAPI.Infrastructure.pdb
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Infrastructure\obj\Release\net8.0\mikroLinkAPI.Infrastructure.genruntimeconfig.cache
 C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Infrastructure\obj\Release\net8.0\ref\mikroLinkAPI.Infrastructure.dll
+C:\Mikrolink\mikroLinkAPI\mikroLinkAPI.Infrastructure\obj\Release\net8.0\mikroLinkAPI.Infrastructure.sourcelink.json

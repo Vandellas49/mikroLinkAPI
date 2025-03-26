@@ -10,6 +10,8 @@ namespace mikroLinkAPI.Application.Features.Materials.MetarialAddByExcel
     {
         public async Task<Result<string>> Handle(MetarialAddByExcelCommand request, CancellationToken cancellationToken)
         {
+            if (Path.GetExtension(request.File.FileName) != ".xlsx")
+                return Result<string>.Failure("Lütfen excel dosyası yükleyin");
             var fileid = await excelHelper.GenerateFilePathAsync(request.File);
             _backgroundJobClient.Enqueue<IProcessMetarilInsertExcelJob>(x => x.RunAsync(fileid, currentUserService.UserId, currentUserService.UserCompanyId,null));
             return "İşlem sıraya alındı";

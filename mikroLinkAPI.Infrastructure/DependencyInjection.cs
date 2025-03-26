@@ -34,8 +34,6 @@ namespace mikroLinkAPI.Infrastructure
                 options.UseSqlServer(configuration.GetConnectionString("SqlServer")).
                 AddInterceptors(serviceProvider.GetRequiredService<InventoryInterceptor>(), serviceProvider.GetRequiredService<ComponentSerialSaveChangesInterceptor>());
             });
-            //RecurringJob.AddOrUpdate<IDailyResetService>("ResetUserSessions", x => x.ResetDailySessions(), "*/2 * * * *");
-
             services.AddHangfire(config =>
             {
                 config.UseSqlServerStorage(configuration.GetConnectionString("HangfireConnection"));
@@ -46,11 +44,6 @@ namespace mikroLinkAPI.Infrastructure
                 var storage = provider.GetRequiredService<JobStorage>();
                 return storage.GetMonitoringApi();
             });
-            //services.AddHostedService<StartupJobService>();
-            //RecurringJob.AddOrUpdate<IDailyResetService>("ResetUserSessions", x => x.ResetDailySessions(), "0 0 * * *"); 
-
-
-
             services.AddSingleton<IKafkaConfig, KafkaConfig>();
             services.AddSingleton<IKafkaProducerService, KafkaProducerService>();
             services.AddSingleton<IKafkaConsumerService, KafkaConsumerService>();

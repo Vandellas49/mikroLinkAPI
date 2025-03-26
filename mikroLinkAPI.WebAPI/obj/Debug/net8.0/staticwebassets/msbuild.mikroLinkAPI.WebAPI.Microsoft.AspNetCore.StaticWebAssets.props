@@ -36,6 +36,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0689d463-f56f-4e58-978b-385e6103ec1b.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wk29sfe77n</Fingerprint>
+      <Integrity>UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0965026b-f52c-4dd8-a4b1-8f9ee1144747.csv'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -234,6 +252,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\287ff3fe-b58c-444c-93e0-6586cf0b40d1.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2982f073-fff4-48eb-8902-9b67749cf9c5.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\31d8a571-30fb-424f-8a06-dba644c804f7.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -324,6 +360,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3b0f00a2-f8f2-42dc-8d46-8a34a160ac4a.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3de2290a-e809-466f-b040-784c3da98b82.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/3de2290a-e809-466f-b040-784c3da98b82.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3de2290a-e809-466f-b040-784c3da98b82.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\42c0efae-a06f-4a38-a7fc-b1466166be73.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kr9e1n0cmk</Fingerprint>
+      <Integrity>8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\43cce7d3-6495-487f-b3d3-72c394aef4a4.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8li50cunbh</Fingerprint>
+      <Integrity>pMJhXFX0ySau48YHWRmi7a76LzUxCIjhnYBOjNQUwrM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4a59e63e-56d7-42a1-893d-4e20b3791b3d.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -341,6 +449,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ef71fdf-2d21-4613-9d39-3d10098d4e54.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/587f73bb-7d92-4802-8688-2560bf9cb920.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iyd7sj9sqk</Fingerprint>
+      <Integrity>lmUy2idXcOKbzdiJRvxNuaD94byryPgDFIhBgYZh1FE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\587f73bb-7d92-4802-8688-2560bf9cb920.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5cce8a1e-6975-4426-bb00-731c6e7708cb.xlsx'))">
       <SourceType>Package</SourceType>
@@ -432,6 +558,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6fd54587-638f-48a3-b793-51a0c72c8080.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/7056db15-8224-49c4-8f42-04e7c1211d24.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7056db15-8224-49c4-8f42-04e7c1211d24.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -449,6 +593,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\70c7eea7-6ca2-4c08-95ca-3b10abcab8c0.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0a3mydy3p3</Fingerprint>
+      <Integrity>6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7231ced4-fffe-41fe-8bbb-c4a54c13303b.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7308ec61-2086-41cc-ac13-c576a87514b5.xlsx'))">
       <SourceType>Package</SourceType>
@@ -522,6 +684,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\766c1450-e23a-4bb0-b37f-b16dac6fbb4a.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a7392ee-f03c-4b64-ba6d-2f4f8fdd0849.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -539,6 +719,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b398b4c-c076-4c57-885d-e659a5ae4c73.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>chq2l9zaww</Fingerprint>
+      <Integrity>kJt5E2CUd21tHy7Pn/LUna0qs6Gqck92cTOODd+wxhk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7cab4c09-a177-4d30-8726-6d9d4d19fc7c.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7e01ff1e-969d-4dca-8ba6-e92da2ff016b.xlsx'))">
       <SourceType>Package</SourceType>
@@ -756,6 +954,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a10e9fb0-b6db-4716-ad50-5e1b0ce53365.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/a7805970-fde8-450a-82a0-10e93d7798d6.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0a3mydy3p3</Fingerprint>
+      <Integrity>6K+OU0CTVNXTi6jA83+V4lBxDYVSBjAchOJErLoUSpE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a7805970-fde8-450a-82a0-10e93d7798d6.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2e10bba-0f69-4c78-ae4d-eba988f642de.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -809,6 +1025,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b5cb5f83-ab8d-4ce2-b382-738fceee6516.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9ilhdqjfzh</Fingerprint>
+      <Integrity>37MWHol1BoK9Ya72dB+hw48UFOfDwea6TSY7pCzYaxM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b74bdede-9d8a-426a-a3dd-b7aa88ac2fbe.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b8be64e4-ec58-4aef-b8d7-3b7200c7aa78.xlsx'))">
       <SourceType>Package</SourceType>
@@ -881,6 +1115,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c407baef-46c9-413c-b876-b94f70270f34.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hlfnj3ju5q</Fingerprint>
+      <Integrity>tT0+gI3UxR0FsB3t96/X5wEpRzQaaTd2bVgp/JwkxrM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c4b715fe-efb5-4ef7-b7c9-a3c4c8757363.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c9f6bdab-6d67-43a2-a9f0-7846b933a00c.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cb33fe43-eb6d-456a-8d17-a4a26eb72ecb.xlsx'))">
       <SourceType>Package</SourceType>
@@ -990,6 +1260,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d9ed6922-339e-49ea-a5d2-0330e2cdb649.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lozd8tpmb6</Fingerprint>
+      <Integrity>5aFgN4vKIt9/sEZq/E7FxU1X+lV6P51TxcEnFx1vCgE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\dc3de8a5-c716-4a5b-9e0f-167e2f160bab.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/ddb97b92-3093-4f54-b17f-2200bf9d4125.csv</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wk29sfe77n</Fingerprint>
+      <Integrity>UE1dB9bRSBpMOqlCboWeltt861BPp8OOE2H+VdxwfQQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ddb97b92-3093-4f54-b17f-2200bf9d4125.csv'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e541bbaf-d640-4410-a7ce-ce93394f6109.xlsx'))">
       <SourceType>Package</SourceType>
       <SourceId>mikroLinkAPI.WebAPI</SourceId>
@@ -1043,6 +1349,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ef5e6c5c-5904-4735-b178-1f40f57cd787.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9bowdh7mis</Fingerprint>
+      <Integrity>67sxjTA6VfSjE7Ku7KWq5LtrN9+xSAoSn3KbJwxFOrs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f20c89bb-7e91-42d7-ba8e-b939eabed1f6.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f347c726-63aa-4215-8956-90b25ad1de4f.xlsx'))">
       <SourceType>Package</SourceType>
@@ -1133,6 +1457,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fd08895f-0b05-4f10-8772-50020911c4c8.xlsx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>mikroLinkAPI.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/mikroLinkAPI.WebAPI</BasePath>
+      <RelativePath>uploads/fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kr9e1n0cmk</Fingerprint>
+      <Integrity>8IXpXg5cMyoh2cEaxx0YXBla2epmvcQQYwniOdhOmM0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fe8abc62-cbc9-440c-92cb-5d5aa0de6cb0.xlsx'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
